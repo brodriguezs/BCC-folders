@@ -1,0 +1,25 @@
+{
+  "name": "bcc_epam",
+  "version": "0.0.1",
+  "description": "Backend Coding Challenge - Folders tree",
+  "main": "Folder.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "EPAM"
+  ],
+  "author": "Bryan Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.0",
+    "jest": "^27.0.6"
+  },
+  "jest": {
+    "^.+\\.[t|j]sx?$": "babel-jest"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "babel-jest": "^27.0.6"
+  }
+}
