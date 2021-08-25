@@ -14,7 +14,7 @@ $ npm run test FolderRunner
 
 That will show something like:
 
-![Test runner]('img/ChallengeTest.png')
+![Test runner](img/ChallengeTest.png)
 
 to run the whole tests included in the `tests` folder, use:
 
@@ -24,7 +24,7 @@ $ npm run test
 
 which includes the coverage report below:
 
-![Test coverage]('img/Coverage.png')
+![Test coverage](img/Coverage.png)
 
 # Comments
 There are couple of things that doesnt match exactly with the given input for the challenge with the LIST command, but actually the LIST shows the same folders tree. 
