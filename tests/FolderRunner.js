@@ -57,8 +57,6 @@ DELETE foods/fruits/apples
 LIST
 foods
   fruits
-    apples
-      fuji
   grains
   vegetables
     squash`;

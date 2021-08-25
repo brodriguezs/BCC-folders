@@ -4,7 +4,7 @@
   "description": "Backend Coding Challenge - Folders tree",
   "main": "Folder.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [
     "EPAM"
